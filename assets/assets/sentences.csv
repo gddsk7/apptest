@@ -1,0 +1,511 @@
+﻿id;category;lv;sr;ru;en
+1;general;1;Ja sam dobar.;Я хороший.;I am good.
+2;general;1;Ja imam kuću.;У меня есть дом.;I have a house.
+3;general;1;Kuća je velika.;Дом большой.;The house is big.
+4;general;1;Ja volim kafu.;Я люблю кофе.;I love coffee.
+5;general;1;Kafa je dobra.;Кофе хороший.;The coffee is good.
+6;general;1;Grad je lep.;Город красивый.;The city is beautiful.
+7;general;1;Ja jedem hleb.;Я ем хлеб.;I eat bread.
+8;general;1;Ja pijem vodu.;Я пью воду.;I drink water.
+9;general;1;Ja sam srećan.;Я счастливый.;I am happy.
+10;general;1;Ja volim grad.;Я люблю город.;I love the city.
+11;general;2;Mi smo mladi.;Мы молодые.;We are young.
+12;general;2;Ja imam porodicu.;У меня есть семья.;I have a family.
+13;general;2;Ti ideš u grad.;Ты идёшь в город.;You are going to the city.
+14;general;2;Ja volim knjigu, ali ti voliš kafu.;Я люблю книгу, но ты любишь кофе.;I love books, but you love coffee.
+15;general;2;Ti si dobar prijatelj.;Ты хороший друг.;You are a good friend.
+16;general;2;Mi imamo lepu porodicu.;У нас красивая семья.;We have a beautiful family.
+17;general;2;Ti radiš u školi.;Ты работаешь в школе.;You work at school.
+18;general;2;Mi znamo mesto.;Мы знаем место.;We know the place.
+19;general;2;Ti imaš zanimljiv posao.;У тебя интересная работа.;You have an interesting job.
+20;general;2;Mi smo srećni.;Мы счастливые.;We are happy.
+21;general;3;On je dobar čovek.;Он хороший человек.;He is a good man.
+22;general;3;Ona voli kafu i vodu.;Она любит кофе и воду.;She loves coffee and water.
+23;general;3;Vi ste veoma pametni.;Вы очень умные.;You are very smart.
+24;general;3;On ima auto i telefon.;У него есть машина и телефон.;He has a car and a phone.
+25;general;3;Danas je hladno, ali kafa je topla.;Сегодня холодно, но кофе тёплый.;Today it is cold, but the coffee is warm.
+26;general;3;Ona ide u školu sada.;Она идёт в школу сейчас.;She is going to school now.
+27;general;3;Gde je dete?;Где ребёнок?;Where is the child?
+28;general;3;Šta on radi?;Что он делает?;What is he doing?
+29;general;3;Vi imate dobar posao.;У вас хорошая работа.;You have a good job.
+30;general;3;On zna gde je škola.;Он знает, где школа.;He knows where the school is.
+31;pekara;1;Idem u pekaru po hleb.;Я иду в пекарню за хлебом.;I'm going to the bakery for bread.
+32;pekara;1;Kupujem kiflu i sok za doručak.;Я покупаю рогалик и сок на завтрак.;I'm buying a croissant and juice for breakfast.
+33;pekara;1;Ovaj burek je vruć i ukusan.;Этот бурек горячий и вкусный.;This burek is hot and tasty.
+34;pekara;1;Molim vas, jedno parče torte.;Один кусок торта, пожалуйста.;One slice of cake, please.
+35;pekara;1;Hvala, ovo pecivo je sveže.;Спасибо, эта выпечка свежая.;Thank you, this pastry is fresh.
+36;pekara;1;Koliko košta ova kifla?;Сколько стоит этот рогалик?;How much does this croissant cost?
+37;pekara;1;Uzeću dve zemičke, molim.;Я возьму две булочки, пожалуйста.;I'll take two buns, please.
+38;pekara;1;Ovaj kolač je veoma sladak.;Этот пирог очень сладкий.;This cake is very sweet.
+39;pekara;1;Stavite mi pecivo u kesu.;Положите мне выпечку в пакет.;Put the pastry in a bag for me.
+40;pekara;1;Deca vole krofne posle škole.;Дети любят пончики после школы.;Kids love donuts after school.
+41;pekara;2;Uzeću jednu sirnicu za poneti.;Я возьму одну сирницу с собой.;I'll take one cheese pie to go.
+42;pekara;2;Ova pogača je domaća i mekana.;Эта погача домашняя и мягкая.;This pogača is homemade and soft.
+43;pekara;2;Volim đevrek sa susamom ujutru.;Я люблю джеврек с кунжутом утром.;I love a sesame đevrek in the morning.
+44;pekara;2;Naručujem tortu za rođendan deteta.;Я заказываю торт на день рождения ребёнка.;I'm ordering a cake for the child's birthday.
+45;pekara;2;Molim vas jedan sendvič sa šunkom.;Один сэндвич с ветчиной, пожалуйста.;One ham sandwich, please.
+46;pekara;2;Kakva je cena ove štrudle?;Какая цена этой штрудли?;What is the price of this strudel?
+47;pekara;2;Zadržite kusur, hvala vam.;Оставьте сдачу себе, спасибо вам.;Keep the change, thank you.
+48;pekara;2;Mogu li da dobijem račun?;Могу я получить чек?;Can I get a receipt?
+49;pekara;2;Danas imamo popust na sve pecivo.;Сегодня у нас скидка на всю выпечку.;We have a discount on all pastries today.
+50;pekara;2;Kakvo punjenje ima ova pita?;Какая начинка у этого пирога?;What filling does this pie have?
+51;pekara;3;Da li imate nešto bez glutena?;У вас есть что-то без глютена?;Do you have anything gluten-free?
+52;pekara;3;Imam alergiju na orahe, pazite molim vas.;У меня аллергия на орехи, будьте осторожны, пожалуйста.;I have an allergy to walnuts, please be careful.
+53;pekara;3;Koji su sastojci ove torte?;Какие ингредиенты у этого торта?;What are the ingredients of this cake?
+54;pekara;3;Ovo pecivo ima čokoladu i lešnik.;В этой выпечке шоколад и лесной орех.;This pastry has chocolate and hazelnut.
+55;pekara;3;Lepinja sa kajmakom je odlična za doručak.;Лепинья с каймаком отличная на завтрак.;Lepinja with kaymak is excellent for breakfast.
+56;pekara;3;Molim vas, pola kila kifli.;Полкило рогаликов, пожалуйста.;Half a kilo of croissants, please.
+57;pekara;3;Ne treba mi plastična kesa, hvala.;Мне не нужен пластиковый пакет, спасибо.;I don't need a plastic bag, thanks.
+58;pekara;3;Ovaj hleb je jučerašnje, ne sveže pečeno.;Этот хлеб вчерашний, не свежеиспечённый.;This bread is from yesterday, not freshly baked.
+59;pekara;3;Torta je posuta šećerom u prahu i cimetom.;Торт посыпан сахарной пудрой и корицей.;The cake is dusted with powdered sugar and cinnamon.
+60;pekara;3;Želim da naručim tortu za subotu.;Я хочу заказать торт на субботу.;I'd like to order a cake for Saturday.
+61;prodavnica;1;Idem u prodavnicu posle posla.;Я иду в магазин после работы.;I'm going to the shop after work.
+62;prodavnica;1;Kupujem povrće i voće svaki dan.;Я покупаю овощи и фрукты каждый день.;I buy vegetables and fruit every day.
+63;prodavnica;1;Uzmite korpu na ulazu, molim vas.;Возьмите корзину у входа, пожалуйста.;Take a basket at the entrance, please.
+64;prodavnica;1;Kolica su kod ulaza u prodavnicu.;Тележки у входа в магазин.;Carts are by the entrance to the store.
+65;prodavnica;1;Kasa je na kraju prodavnice.;Касса в конце магазина.;The checkout is at the end of the store.
+66;prodavnica;1;Prodavac je danas veoma ljubazan.;Продавец сегодня очень вежливый.;The shop assistant is very kind today.
+67;prodavnica;1;Ovaj proizvod ima veliki popust.;На этот товар большая скидка.;This product has a big discount.
+68;prodavnica;1;Plaćam karticom, ne gotovinom.;Я плачу картой, не наличными.;I'm paying by card, not cash.
+69;prodavnica;1;Da li primate kartice ovde?;Вы принимаете здесь карты?;Do you accept cards here?
+70;prodavnica;1;Tražim mleko bez laktoze.;Я ищу молоко без лактозы.;I'm looking for lactose-free milk.
+71;prodavnica;2;Gde je odeljenje sa mlečnim proizvodima?;Где отдел молочных продуктов?;Where is the dairy department?
+72;prodavnica;2;Ovo voće je jeftino danas.;Эти фрукты сегодня дёшевы.;This fruit is cheap today.
+73;prodavnica;2;Meso je sveže i u zamrzivaču.;Мясо свежее и в морозилке.;The meat is fresh and in the freezer.
+74;prodavnica;2;Proverite rok trajanja pre kupovine.;Проверьте срок годности перед покупкой.;Check the expiry date before buying.
+75;prodavnica;2;Ova riba je skupa ove nedelje.;Эта рыба дорогая на этой неделе.;This fish is expensive this week.
+76;prodavnica;2;Sok je na akciji, pogledajte etiketu.;Сок сейчас по акции, посмотрите этикетку.;The juice is on sale, check the label.
+77;prodavnica;2;Imam kupon za popust na povrće.;У меня есть купон на скидку на овощи.;I have a coupon for a discount on vegetables.
+78;prodavnica;2;Molim vas jedan kilogram jabuka.;Один килограмм яблок, пожалуйста.;One kilogram of apples, please.
+79;prodavnica;2;Gde su kese za smeće i deterdžent?;Где мусорные пакеты и стиральный порошок?;Where are the trash bags and detergent?
+80;prodavnica;2;Koje je radno vreme prodavnice danas?;Какие сегодня часы работы магазина?;What are the store's opening hours today?
+81;prodavnica;3;Ovo povrće je zamrznuto, ne sveže.;Эти овощи заморожены, не свежие.;This vegetable is frozen, not fresh.
+82;prodavnica;3;Tražim organsko i domaće voće.;Я ищу органические и отечественные фрукты.;I'm looking for organic and local fruit.
+83;prodavnica;3;Mogu li da vratim ovu robu?;Могу я вернуть этот товар?;Can I return this item?
+84;prodavnica;3;Da li je moguća zamena bez računa?;Возможен ли обмен без чека?;Is an exchange possible without a receipt?
+85;prodavnica;3;Ovaj proizvod ima garanciju i isporuku.;На этот товар есть гарантия и доставка.;This product has a warranty and delivery.
+86;prodavnica;3;Nažalost, ovaj proizvod nemamo na stanju.;К сожалению, этого товара у нас нет в наличии.;Unfortunately, we don't have this product in stock.
+87;prodavnica;3;Nemam sitno, možete li da mi date kusur?;У меня нет мелочи, можете дать сдачу?;I don't have small change, can you give me change?
+88;prodavnica;3;Skenirajte moju bonus karticu, molim vas.;Отсканируйте мою бонусную карту, пожалуйста.;Scan my bonus card, please.
+89;prodavnica;3;Kupujem testeninu, začine i pirinač.;Я покупаю макароны, специи и рис.;I'm buying pasta, spices, and rice.
+90;prodavnica;3;Idem na pijacu subotom po povrće.;Я хожу на рынок по субботам за овощами.;I go to the market on Saturdays for vegetables.
+91;dom;1;Ovo je moja soba, ona je velika.;Это моя комната, она большая.;This is my room, it's big.
+92;dom;1;Kuhinja je mala ali lepa.;Кухня маленькая, но красивая.;The kitchen is small but nice.
+93;dom;1;Kupatilo je pored spavaće sobe.;Ванная рядом со спальней.;The bathroom is next to the bedroom.
+94;dom;1;Gledamo televiziju u dnevnoj sobi.;Мы смотрим телевизор в гостиной.;We watch TV in the living room.
+95;dom;1;Krevet je udoban i nov.;Кровать удобная и новая.;The bed is comfortable and new.
+96;dom;1;Kuhinjski sto je pored prozora.;Кухонный стол у окна.;The kitchen table is by the window.
+97;dom;1;Zatvori vrata, molim te.;Закрой дверь, пожалуйста.;Close the door, please.
+98;dom;1;Otvori prozor, vruće je danas.;Открой окно, сегодня жарко.;Open the window, it's hot today.
+99;dom;1;Mleko je u frižideru.;Молоко в холодильнике.;The milk is in the fridge.
+100;dom;1;Kupam se svako veče posle posla.;Я принимаю душ каждый вечер после работы.;I take a shower every evening after work.
+101;dom;2;Deca vole kupatilsku kadu uveče.;Дети любят ванну вечером.;Kids love the bathtub in the evening.
+102;dom;2;Operi ruke u lavabou pre jela.;Помой руки в раковине перед едой.;Wash your hands in the sink before eating.
+103;dom;2;Odeća je u ormanu, a knjige na polici.;Одежда в шкафу, а книги на полке.;The clothes are in the wardrobe, and the books are on the shelf.
+104;dom;2;Upali lampu, molim te, mračno je.;Включи лампу, пожалуйста, темно.;Turn on the lamp, please, it's dark.
+105;dom;2;Zatvori zavese uveče kad je hladno.;Закрой шторы вечером, когда холодно.;Close the curtains in the evening when it's cold.
+106;dom;2;Uzmi ćebe i jastuk, hladno je.;Возьми одеяло и подушку, холодно.;Take a blanket and pillow, it's cold.
+107;dom;2;Perem sudove u sudoperi svaki dan.;Я мою посуду в мойке каждый день.;I wash the dishes in the sink every day.
+108;dom;2;Usisavam pod usisivačem subotom.;Я пылесошу пол пылесосом по субботам.;I vacuum the floor on Saturdays.
+109;dom;2;Deca se igraju u dvorištu i na balkonu.;Дети играют во дворе и на балконе.;The kids are playing in the yard and on the balcony.
+110;dom;2;Naš komšija živi na trećem spratu.;Наш сосед живёт на третьем этаже.;Our neighbor lives on the third floor.
+111;dom;3;Peglam košulje nedeljom uveče.;Я глажу рубашки по воскресеньям вечером.;I iron shirts on Sunday evenings.
+112;dom;3;Namestim krevet svako jutro pre posla.;Я заправляю кровать каждое утро перед работой.;I make the bed every morning before work.
+113;dom;3;Zalivam cveće u saksiji svaki dan.;Я поливаю комнатное растение каждый день.;I water the potted plant every day.
+114;dom;3;Popravljam slavinu koja curi u kupatilu.;Я чиню кран, который течёт в ванной.;I'm fixing the faucet that's leaking in the bathroom.
+115;dom;3;Nestalo je struje pa je hladno u kući.;Электричество отключилось, поэтому в доме холодно.;The power went out, so it's cold in the house.
+116;dom;3;Izgubio sam ključ od kuće juče.;Я потерял ключ от дома вчера.;I lost my house key yesterday.
+117;dom;3;Sijalica je pregorela u dnevnoj sobi.;Лампочка перегорела в гостиной.;The light bulb burned out in the living room.
+118;dom;3;Plaćam kiriju stanodavcu prvog u mesecu.;Я плачу аренду арендодателю первого числа месяца.;I pay rent to the landlord on the first of the month.
+119;dom;3;Kupujemo nov nameštaj za dnevnu sobu.;Мы покупаем новую мебель для гостиной.;We're buying new furniture for the living room.
+120;dom;3;Auto je u garaži pored ograde.;Машина в гараже рядом с забором.;The car is in the garage next to the fence.
+121;city;1;Živim u ovoj ulici već pet godina.;Я живу на этой улице уже пять лет.;I've lived on this street for five years.
+122;city;1;Sastajemo se na trgu u podne.;Мы встречаемся на площади в полдень.;We're meeting at the square at noon.
+123;city;1;Šetamo se u parku posle ručka.;Мы гуляем в парке после обеда.;We walk in the park after lunch.
+124;city;1;Most vodi preko reke do centra.;Мост ведёт через реку к центру.;The bridge leads across the river to the center.
+125;city;1;Radim u centru grada svaki dan.;Я работаю в центре города каждый день.;I work in the city center every day.
+126;city;1;Ova zgrada je visoka i lepa.;Это здание высокое и красивое.;This building is tall and beautiful.
+127;city;1;Sačekaj zeleno na semaforu, molim te.;Подожди зелёный на светофоре, пожалуйста.;Wait for the green light, please.
+128;city;1;Prelazim ulicu na pešačkom prelazu.;Я перехожу улицу по пешеходному переходу.;I cross the street at the crosswalk.
+129;city;1;Koja je tvoja adresa u ovom gradu?;Какой у тебя адрес в этом городе?;What is your address in this city?
+130;city;1;Crkva je stara, lepa i poznata.;Церковь старая, красивая и известная.;The church is old, beautiful, and well-known.
+131;city;2;Živim u predgrađu, blizu stare varoši.;Я живу в пригороде, рядом со старым городом.;I live in a suburb, near the old town.
+132;city;2;Biblioteka je otvorena do osam uveče.;Библиотека открыта до восьми вечера.;The library is open until eight in the evening.
+133;city;2;Muzej je zatvoren ponedeljkom, znam.;Музей закрыт по понедельникам, я знаю.;The museum is closed on Mondays, I know.
+134;city;2;Idemo u pozorište ili u bioskop večeras?;Мы идём сегодня в театр или в кино?;Are we going to the theater or the cinema tonight?
+135;city;2;Utakmica je na stadionu u tri sata.;Матч на стадионе в три часа.;The match is at the stadium at three o'clock.
+136;city;2;Bolnica je blizu železničke stanice.;Больница рядом с железнодорожным вокзалом.;The hospital is near the train station.
+137;city;2;Spomenik je u centru trga, veoma je star.;Памятник в центре площади, он очень старый.;The monument is in the center of the square, it's very old.
+138;city;2;Skreni desno na raskrsnici, pa pravo.;Поверни направо на перекрёстке, потом прямо.;Turn right at the intersection, then straight.
+139;city;2;Tvrđava je iznad reke, znamenitost je grada.;Крепость над рекой — достопримечательность города.;The fortress above the river is a landmark of the city.
+140;city;2;Robna kuća i pošta su u centru.;Универмаг и почта в центре.;The department store and post office are in the center.
+141;city;3;Centar je pešačka zona, auta ne mogu tamo.;Центр — пешеходная зона, машины туда не могут.;The center is a pedestrian zone, cars can't go there.
+142;city;3;Ovo naselje je novo i mirno.;Этот жилой массив новый и тихий.;This residential area is new and quiet.
+143;city;3;Sokak vodi do malog dvorišta.;Переулок ведёт в маленький двор.;The alley leads to a small yard.
+144;city;3;Prodavnica je na bulevaru, pored fontane.;Магазин на бульваре, рядом с фонтаном.;The store is on the boulevard, next to the fountain.
+145;city;3;Auto ide preko nadvožnjaka i onda skreće levo.;Машина едет через путепровод, а затем поворачивает налево.;The car goes over the overpass and then turns left.
+146;city;3;Živimo na periferiji grada, daleko od centra.;Мы живём на окраине города, далеко от центра.;We live on the outskirts of the city, far from the center.
+147;city;3;Popeli smo se do vidikovca da vidimo panoramu grada.;Мы поднялись на смотровую площадку, чтобы увидеть панораму города.;We climbed up to the viewpoint to see the city skyline.
+148;city;3;Ovo je poznata znamenitost, svi turisti dolaze ovde.;Это известная достопримечательность, сюда приезжают все туристы.;This is a famous landmark, all tourists come here.
+149;city;3;Sedimo na klupi u gradskom parku.;Мы сидим на скамейке в городском парке.;We're sitting on a bench in the city park.
+150;city;3;Fasada ove stare zgrade je obnovljena prošle godine.;Фасад этого старого здания отремонтирован в прошлом году.;The facade of this old building was renovated last year.
+151;transport;1;Idem autobusom na posao svako jutro.;Я езжу на работу на автобусе каждое утро.;I go to work by bus every morning.
+152;transport;1;Voz kasni deset minuta danas.;Поезд сегодня опаздывает на десять минут.;The train is ten minutes late today.
+153;transport;1;Zovem taksi do hotela sada.;Я вызываю такси до отеля сейчас.;I'm calling a taxi to the hotel now.
+154;transport;1;Tramvaj staje ovde, blizu parka.;Трамвай останавливается здесь, рядом с парком.;The tram stops here, near the park.
+155;transport;1;Letim avionom do Beograda sledeće nedelje.;Я лечу самолётом до Белграда на следующей неделе.;I'm flying to Belgrade by plane next week.
+156;transport;1;Vozim bicikl svako jutro kad je lepo vreme.;Я езжу на велосипеде каждое утро, когда хорошая погода.;I ride a bicycle every morning when the weather is nice.
+157;transport;1;Idem na posao pešice, nije daleko.;Я иду на работу пешком, это недалеко.;I go to work on foot, it's not far.
+158;transport;1;Kupujem kartu za voz na stanici.;Я покупаю билет на поезд на станции.;I'm buying a train ticket at the station.
+159;transport;1;Idite pravo do semafora, pa desno.;Идите прямо до светофора, потом направо.;Go straight to the traffic light, then right.
+160;transport;1;Skrenite levo posle mosta, molim vas.;Поверните налево после моста, пожалуйста.;Turn left after the bridge, please.
+161;transport;2;U Beogradu nema metroa, samo autobusi i tramvaji.;В Белграде нет метро, только автобусы и трамваи.;There's no metro in Belgrade, only buses and trams.
+162;transport;2;Vozač je veoma pažljiv i miran.;Водитель очень внимательный и спокойный.;The driver is very careful and calm.
+163;transport;2;Aerodrom je udaljen dvadeset minuta odavde.;Аэропорт в двадцати минутах отсюда.;The airport is twenty minutes from here.
+164;transport;2;Autobuska stanica je pored pijace, blizu centra.;Автовокзал рядом с рынком, недалеко от центра.;The bus station is next to the market, near the center.
+165;transport;2;Kupujem mesečnu kartu za autobus svaki mesec.;Я покупаю месячный проездной на автобус каждый месяц.;I buy a monthly bus pass every month.
+166;transport;2;Koliko dugo traje vožnja do aerodroma?;Как долго длится поездка до аэропорта?;How long does the ride to the airport take?
+167;transport;2;Kada polazi sledeći autobus za centar?;Когда отправляется следующий автобус в центр?;When does the next bus to the center depart?
+168;transport;2;Ima kašnjenje od pola sata, nažalost.;К сожалению, опоздание на полчаса.;Unfortunately, there's a half-hour delay.
+169;transport;2;Silazim na sledećoj stanici, hvala vam.;Я выхожу на следующей остановке, спасибо вам.;I'm getting off at the next stop, thank you.
+170;transport;2;U autobusu je velika gužva ujutru.;Утром в автобусе большая толчея.;There's a big crowd on the bus in the morning.
+171;transport;3;Izgubio sam se, gde je centar grada?;Я заблудился, где центр города?;I'm lost, where is the city center?
+172;transport;3;Kako da dođem do železničke stanice odavde?;Как мне добраться до железнодорожного вокзала отсюда?;How do I get to the train station from here?
+173;transport;3;Koja linija autobusa ide do aerodroma?;Какая автобусная линия идёт до аэропорта?;Which bus line goes to the airport?
+174;transport;3;Pređite ulicu kod semafora, pa idite pravo.;Перейдите улицу у светофора, потом идите прямо.;Cross the street at the traffic light, then go straight.
+175;transport;3;Taksi stanica je preko puta hotela.;Стоянка такси напротив отеля.;The taxi stand is across from the hotel.
+176;transport;3;Skrenite u prvu ulicu desno, blizu je.;Поверните на первую улицу направо, это близко.;Turn onto the first street on the right, it's close.
+177;transport;3;Peške je blizu, samo pet minuta odavde.;Пешком это близко, всего пять минут отсюда.;It's a short walk, just five minutes from here.
+178;transport;3;Treba mi vozačka dozvola za rentakar.;Мне нужны права для аренды машины.;I need a driver's license for the car rental.
+179;transport;3;Kupujem povratnu kartu do Novog Sada danas.;Я покупаю сегодня билет туда и обратно до Нови-Сада.;I'm buying a round-trip ticket to Novi Sad today.
+180;transport;3;Autobus kasni petnaest minuta zbog gužve.;Автобус опаздывает на пятнадцать минут из-за пробки.;The bus is fifteen minutes late due to traffic.
+181;work;1;Radim u kancelariji od devet do pet.;Я работаю в офисе с девяти до пяти.;I work in an office from nine to five.
+182;work;1;Moj kolega je danas bolestan i nije na poslu.;Мой коллега сегодня болен и не на работе.;My colleague is sick today and not at work.
+183;work;1;Šef je na sastanku sa klijentom.;Начальник на встрече с клиентом.;The boss is in a meeting with the client.
+184;work;1;Imamo sastanak u deset, ne kasni.;У нас совещание в десять, не опаздывай.;We have a meeting at ten, don't be late.
+185;work;1;Ovaj zadatak je hitan, rok je sutra.;Эта задача срочная, дедлайн завтра.;This task is urgent, the deadline is tomorrow.
+186;work;1;Plata stiže prvog u mesecu svaki put.;Зарплата приходит первого числа каждый раз.;The salary arrives on the first of the month every time.
+187;work;1;Šaljem email klijentu pre podneva.;Я отправляю письмо клиенту до полудня.;I'm sending an email to the client before noon.
+188;work;1;Potpiši ovaj dokument, molim te.;Подпиши этот документ, пожалуйста.;Sign this document, please.
+189;work;1;Radimo na novom projektu ove nedelje.;Мы работаем над новым проектом на этой неделе.;We're working on a new project this week.
+190;work;1;Klijent je zadovoljan našim radom.;Клиент доволен нашей работой.;The client is satisfied with our work.
+191;work;2;Ovo je moje radno mesto već tri godine.;Это моё рабочее место уже три года.;This has been my workplace for three years.
+192;work;2;Poslodavac nudi dobre uslove za zaposlene.;Работодатель предлагает хорошие условия для сотрудников.;The employer offers good conditions for employees.
+193;work;2;Radim prekovremeno ove nedelje zbog roka.;Я работаю сверхурочно на этой неделе из-за дедлайна.;I'm working overtime this week because of the deadline.
+194;work;2;Ona je na bolovanju već nedelju dana.;Она на больничном уже неделю.;She's been on sick leave for a week already.
+195;work;2;Imam intervju za posao sutra ujutru.;У меня завтра утром собеседование.;I have a job interview tomorrow morning.
+196;work;2;Poslao sam biografiju kompaniji juče.;Я отправил резюме компании вчера.;I sent my CV to the company yesterday.
+197;work;2;Radim u malom timu sa dobrim kolegama.;Я работаю в маленькой команде с хорошими коллегами.;I work in a small team with good colleagues.
+198;work;2;Pripremam prezentaciju za sledeći sastanak.;Я готовлю презентацию к следующему совещанию.;I'm preparing a presentation for the next meeting.
+199;work;2;Poslao sam fakturu klijentu jutros.;Я отправил счёт клиенту сегодня утром.;I sent the invoice to the client this morning.
+200;work;2;Idem na poslovni put sledećeg meseca.;Я еду в командировку в следующем месяце.;I'm going on a business trip next month.
+201;work;3;Potpisao sam ugovor o radu prošle nedelje.;Я подписал трудовой договор на прошлой неделе.;I signed the employment contract last week.
+202;work;3;Probni rad traje tri meseca u ovoj firmi.;Испытательный срок в этой фирме длится три месяца.;The probation period at this company lasts three months.
+203;work;3;Firma plaća zdravstveno osiguranje za sve zaposlene.;Фирма оплачивает медицинскую страховку для всех сотрудников.;The company pays for health insurance for all employees.
+204;work;3;Dobio sam bonus za dobre rezultate ove godine.;Я получил премию за хорошие результаты в этом году.;I got a bonus for good results this year.
+205;work;3;Imamo fleksibilno radno vreme i rad od kuće.;У нас гибкий график и работа из дома.;We have flexible hours and remote work.
+206;work;3;Sastali smo se sa poslovnim partnerom danas.;Мы встретились сегодня с деловым партнёром.;We met with our business partner today.
+207;work;3;Naš cilj je povećanje prihoda ove godine.;Наша цель — увеличение дохода в этом году.;Our goal is to increase revenue this year.
+208;work;3;Radna sredina u ovoj firmi je prijatna.;Рабочая среда в этой фирме приятная.;The work environment at this company is pleasant.
+209;work;3;Tražim bolju ravnotežu posao-život ove godine.;Я ищу лучший баланс работы и жизни в этом году.;I'm looking for a better work-life balance this year.
+210;work;3;Prisustvujem radionici o veštinama sledeće nedelje.;Я посещаю воркшоп по навыкам на следующей неделе.;I'm attending a skills workshop next week.
+211;study;1;Studiram na fakultetu u Beogradu već dve godine.;Я учусь в университете в Белграде уже два года.;I've been studying at a university in Belgrade for two years.
+212;study;1;On je student prve godine i mlad je.;Он студент первого курса и молодой.;He's a first-year student and young.
+213;study;1;Profesor drži predavanje o istoriji.;Профессор читает лекцию по истории.;The professor is giving a lecture on history.
+214;study;1;Imam ispit sutra, moram da učim.;У меня завтра экзамен, мне нужно учить.;I have an exam tomorrow, I need to study.
+215;study;1;Dobio sam odličnu ocenu na testu.;Я получил отличную оценку за тест.;I got an excellent grade on the test.
+216;study;1;Radim domaći zadatak svako veče posle škole.;Я делаю домашнее задание каждый вечер после школы.;I do my homework every evening after school.
+217;study;1;Udžbenik je težak, ali zanimljiv.;Учебник тяжёлый, но интересный.;The textbook is heavy, but interesting.
+218;study;1;Zapisujem beleške u svesku na času.;Я записываю заметки в тетрадь на уроке.;I write notes in my notebook during class.
+219;study;1;On je u sedmom razredu ove godine.;Он в этом году в седьмом классе.;He's in seventh grade this year.
+220;study;1;Učiteljica je strpljiva i pametna žena.;Учительница терпеливая и умная женщина.;The teacher is a patient and smart woman.
+221;study;2;Ovaj semestar ima šest predmeta, veoma je zauzeto.;В этом семестре шесть предметов, очень занято.;This semester has six subjects, it's very busy.
+222;study;2;Matematika je moj omiljeni predmet u školi.;Математика — мой любимый предмет в школе.;Math is my favorite subject at school.
+223;study;2;Dobila je stipendiju za studije prošle godine.;Она получила стипендию на учёбу в прошлом году.;She got a scholarship for her studies last year.
+224;study;2;Predajem seminarski rad u petak ujutru.;Я сдаю курсовую в пятницу утром.;I'm submitting my term paper on Friday morning.
+225;study;2;Učim u biblioteci fakulteta svaki dan.;Я учусь в библиотеке факультета каждый день.;I study at the faculty library every day.
+226;study;2;Naša grupa ima dvadeset studenata ove godine.;В нашей группе в этом году двадцать студентов.;Our group has twenty students this year.
+227;study;2;Treba mi još deset bodova za ocenu.;Мне нужно ещё десять баллов для оценки.;I need ten more points for the grade.
+228;study;2;Živim u studentskom domu, blizu fakulteta.;Я живу в общежитии, рядом с факультетом.;I live in a dormitory, near the faculty.
+229;study;2;Ručam u menzi svaki dan sa prijateljima.;Я обедаю в столовой каждый день с друзьями.;I have lunch at the cafeteria every day with friends.
+230;study;2;Imamo kratak test danas na času.;У нас сегодня короткий тест на уроке.;We have a short quiz today in class.
+231;study;3;Akademska godina počinje u oktobru svake godine.;Учебный год начинается в октябре каждый год.;The academic year starts in October every year.
+232;study;3;Upisala je master studije prošlog leta.;Она поступила в магистратуру прошлым летом.;She enrolled in a master's program last summer.
+233;study;3;Moj mentor rada je strog, ali fer čovek.;Мой научный руководитель строгий, но справедливый человек.;My thesis advisor is a strict but fair person.
+234;study;3;Biram izborni predmet ovog semestra sam.;Я сама выбираю факультатив в этом семестре.;I'm choosing an elective this semester myself.
+235;study;3;Idem na konsultacije kod profesora sledeće nedelje.;Я иду на консультацию к профессору на следующей неделе.;I'm going to the professor's office hours next week.
+236;study;3;Moja prosečna ocena je devet ove godine.;Мой средний балл в этом году девять.;My GPA this year is nine.
+237;study;3;Odbrana diplomskog rada je u julu, znam datum.;Защита дипломной работы в июле, я знаю дату.;The thesis defense is in July, I know the date.
+238;study;3;Predajem dokumenta u studentskoj službi sutra.;Я сдаю документы в студенческую службу завтра.;I'm submitting documents at the student services office tomorrow.
+239;study;3;Pokazujem studentsku iskaznicu za popust u prodavnici.;Я показываю студенческий билет для скидки в магазине.;I show my student ID for a discount at the store.
+240;study;3;Januarski ispitni rok je najduži i najteži.;Январская сессия самая длинная и самая тяжёлая.;The January exam session is the longest and hardest.
+241;health;1;Boli me glava od jutros.;У меня болит голова с утра.;My head has been hurting since this morning.
+242;health;1;Boli me stomak posle ručka.;У меня болит живот после обеда.;My stomach hurts after lunch.
+243;health;1;Povredio sam ruku juče na poslu.;Я повредил руку вчера на работе.;I injured my arm yesterday at work.
+244;health;1;Boli me grlo kad gutam vodu.;У меня болит горло, когда я глотаю воду.;My throat hurts when I swallow water.
+245;health;1;Imam groznicu i drhtim od hladnoće.;У меня жар, и я дрожу от холода.;I have a fever and I'm shivering from the cold.
+246;health;1;Idem kod lekara sutra ujutru.;Я иду к врачу завтра утром.;I'm going to the doctor tomorrow morning.
+247;health;1;Doktorka me je pregledala i dala mi lek.;Врач меня осмотрела и дала мне лекарство.;The doctor examined me and gave me medicine.
+248;health;1;Kupujem lek u apoteci posle posla.;Я покупаю лекарство в аптеке после работы.;I'm buying medicine at the pharmacy after work.
+249;health;1;Osećam se bolesno danas, moram da odmorim.;Я сегодня чувствую себя больным, мне нужно отдохнуть.;I feel sick today, I need to rest.
+250;health;1;On je zdrav i jak čovek.;Он здоровый и сильный человек.;He is a healthy and strong man.
+251;health;2;Zovem zbog zakazivanja pregleda kod doktorke.;Я звоню, чтобы записаться на приём к врачу.;I'm calling to book an appointment with the doctor.
+252;health;2;Idem kod zubara zbog jakog bola u zubu.;Я иду к стоматологу из-за сильной боли в зубе.;I'm going to the dentist because of severe tooth pain.
+253;health;2;Oko mi je crveno, a uho me boli.;У меня красный глаз, и ухо болит.;My eye is red, and my ear hurts.
+254;health;2;Imam jak kašalj i prehladu ove nedelje.;У меня на этой неделе сильный кашель и простуда.;I have a bad cough and a cold this week.
+255;health;2;Doktor mi je dao recept za lek.;Врач выписал мне рецепт на лекарство.;The doctor gave me a prescription for medicine.
+256;health;2;Imam nizak pritisak i osećam vrtoglavicu.;У меня низкое давление, и я чувствую головокружение.;I have low blood pressure and feel dizzy.
+257;health;2;Pozvao sam hitnu pomoć zbog povrede.;Я вызвал скорую помощь из-за травмы.;I called emergency services because of an injury.
+258;health;2;Imam zdravstveno osiguranje, ponesite zdravstvenu knjižicu.;У меня есть медицинская страховка, возьмите медицинскую книжку.;I have health insurance, bring your health booklet.
+259;health;2;Sedim u čekaonici i čekam lekara.;Я сижу в зале ожидания и жду врача.;I'm sitting in the waiting room, waiting for the doctor.
+260;health;2;Uputili su me kod specijaliste za srce.;Меня направили к специалисту по сердцу.;I was referred to a heart specialist.
+261;health;3;Moj porodični lekar je blizu moje kuće.;Мой семейный врач рядом с моим домом.;My family doctor is near my home.
+262;health;3;Želim da zakažem pregled kod lekara sutra.;Я хочу записаться на приём к врачу завтра.;I'd like to schedule an appointment with the doctor tomorrow.
+263;health;3;Opišite mi vaše simptome, molim vas.;Опишите мне ваши симптомы, пожалуйста.;Please describe your symptoms to me.
+264;health;3;Doktor je postavio dijagnozu posle analize krvi.;Врач поставил диагноз после анализа крови.;The doctor made a diagnosis after the blood test.
+265;health;3;Osećam mučninu i vrtoglavicu posle jela.;Я чувствую тошноту и головокружение после еды.;I feel nauseous and dizzy after eating.
+266;health;3;Imam modricu i otok na nozi.;У меня синяк и отёк на ноге.;I have a bruise and swelling on my leg.
+267;health;3;Doktor sumnja na prelom posle povrede.;Врач подозревает перелом после травмы.;The doctor suspects a fracture after the injury.
+268;health;3;Uzimam jednu tabletu ujutru za pritisak.;Я принимаю одну таблетку утром от давления.;I take one pill in the morning for blood pressure.
+269;health;3;Vodim dete kod pedijatra sledeće nedelje.;Я веду ребёнка к педиатру на следующей неделе.;I'm taking my child to the pediatrician next week.
+270;health;3;Idem na fizioterapiju za leđa dva puta nedeljno.;Я хожу на физиотерапию для спины два раза в неделю.;I go to physiotherapy for my back twice a week.
+271;time;1;Volim proleće zbog cveća i toplog vremena.;Я люблю весну из-за цветов и тёплой погоды.;I love spring because of the flowers and warm weather.
+272;time;1;Leti idemo na more sa porodicom.;Летом мы едем на море с семьёй.;In summer we go to the seaside with the family.
+273;time;1;Jesen je puna boja i lepa je.;Осень полна красок и красива.;Autumn is full of colors and beautiful.
+274;time;1;Zimi pada sneg i veoma je hladno.;Зимой идёт снег, и очень холодно.;In winter it snows and it's very cold.
+275;time;1;Sačekaj samo minut, molim te.;Подожди всего минуту, пожалуйста.;Wait just a minute, please.
+276;time;1;Ovo je bio dobar dan za mene.;Это был хороший день для меня.;This was a good day for me.
+277;time;1;Volim mirno jutro pre posla.;Я люблю спокойное утро перед работой.;I love a calm morning before work.
+278;time;1;Uveče gledamo film i pijemo čaj.;Вечером мы смотрим фильм и пьём чай.;In the evening we watch a movie and drink tea.
+279;time;1;Ručamo u podne svaki radni dan.;Мы обедаем в полдень каждый рабочий день.;We have lunch at noon every workday.
+280;time;1;Koliko je sati sada, znaš li?;Который сейчас час, ты знаешь?;What time is it now, do you know?
+281;time;2;Čekam već pola sata na autobus.;Я жду автобус уже полчаса.;I've been waiting for the bus for half an hour.
+282;time;2;Ustajem rano ujutru svaki dan.;Я встаю рано утром каждый день.;I get up early every morning.
+283;time;2;Legao sam kasno sinoć zbog posla.;Я лёг поздно вчера вечером из-за работы.;I went to bed late last night because of work.
+284;time;2;Videli smo se prošle nedelje u gradu.;Мы виделись на прошлой неделе в городе.;We saw each other last week in the city.
+285;time;2;Putujem sledeće nedelje kod porodice.;Я путешествую на следующей неделе к семье.;I'm traveling next week to see my family.
+286;time;2;Bio sam u Grčkoj prošle godine leti.;В прошлом году летом я был в Греции.;I was in Greece last summer.
+287;time;2;Ponedeljak mi je najteži dan u nedelji.;Понедельник — мой самый тяжёлый день недели.;Monday is my hardest day of the week.
+288;time;2;Petak je moj omiljeni dan, jer je vikend blizu.;Пятница — мой любимый день, потому что выходные близко.;Friday is my favorite day, because the weekend is close.
+289;time;2;Vikendom idemo na izlete van grada.;На выходных мы ездим на прогулки за город.;On weekends we go on trips outside the city.
+290;time;2;Sutra je državni praznik, ne radim.;Завтра государственный праздник, я не работаю.;Tomorrow is a public holiday, I'm not working.
+291;time;3;Sada je tačno deset do pet.;Сейчас ровно без десяти пять.;It's exactly ten to five now.
+292;time;3;Dolazim tačno u tri, ne kasnim.;Я приду ровно в три, не опаздываю.;I'll arrive exactly at three, I'm not late.
+293;time;3;Sastanak je zakazan pre podne, oko deset.;Совещание назначено на до полудня, около десяти.;The meeting is scheduled for the morning, around ten.
+294;time;3;Vežbam svakog dana, čak i vikendom.;Я тренируюсь каждый день, даже по выходным.;I exercise every day, even on weekends.
+295;time;3;Nikad ne kasnim na posao ujutru.;Я никогда не опаздываю на работу утром.;I'm never late for work in the morning.
+296;time;3;Vidimo se za sat vremena kod kafića.;Увидимся через час у кафе.;See you in an hour by the café.
+297;time;3;Plata stiže krajem meseca svaki put.;Зарплата приходит в конце месяца каждый раз.;The salary arrives at the end of the month every time.
+298;time;3;Ispit je za dva dana, moram da učim.;Экзамен через два дня, мне нужно учить.;The exam is in two days, I need to study.
+299;time;3;Uspeo sam da stignem na vreme na sastanak.;Мне удалось успеть вовремя на встречу.;I managed to arrive on time for the meeting.
+300;time;3;Vraćam se prekosutra iz Beograda.;Я возвращаюсь послезавтра из Белграда.;I'm coming back the day after tomorrow from Belgrade.
+301;odeca;1;Kupujem plavu majicu za leto.;Я покупаю синюю футболку на лето.;I'm buying a blue T-shirt for summer.
+302;odeca;1;Ova košulja mi dobro stoji, sviđa mi se.;Эта рубашка мне идёт, мне нравится.;This shirt suits me well, I like it.
+303;odeca;1;Trebaju mi nove pantalone za posao.;Мне нужны новые брюки для работы.;I need new pants for work.
+304;odeca;1;Ove farmerke su mi uske, treba mi veći broj.;Эти джинсы мне узки, мне нужен размер побольше.;These jeans are too tight for me, I need a bigger size.
+305;odeca;1;Treba mi topla jakna za zimu.;Мне нужна тёплая куртка на зиму.;I need a warm jacket for winter.
+306;odeca;1;Ove cipele su udobne i lepe.;Эта обувь удобная и красивая.;These shoes are comfortable and nice.
+307;odeca;1;Koja je vaša veličina, molim vas?;Какой у вас размер, пожалуйста?;What is your size, please?
+308;odeca;1;Gde je kabina za presvlačenje, molim vas?;Где примерочная, пожалуйста?;Where is the fitting room, please?
+309;odeca;1;Mogu li da probam ovu haljinu?;Могу я примерить это платье?;Can I try on this dress?
+310;odeca;1;Sviđa mi se ova boja, uzeću je.;Мне нравится этот цвет, я его возьму.;I like this color, I'll take it.
+311;odeca;2;Nosim kaput zimi kad je hladno.;Я ношу пальто зимой, когда холодно.;I wear a coat in winter when it's cold.
+312;odeca;2;Ovaj džemper je od vune i topao je.;Этот свитер из шерсти и тёплый.;This sweater is made of wool and warm.
+313;odeca;2;Sako mi treba za posao i sastanke.;Мне нужен пиджак для работы и встреч.;I need a blazer for work and meetings.
+314;odeca;2;Trebaju mi tople čarape i rukavice zimi.;Мне нужны тёплые носки и перчатки зимой.;I need warm socks and gloves in winter.
+315;odeca;2;Kupujem patike za trčanje ujutru.;Я покупаю кроссовки для утреннего бега.;I'm buying sneakers for morning running.
+316;odeca;2;Trebaju mi zimske čizme, hladno je napolju.;Мне нужны зимние сапоги, на улице холодно.;I need winter boots, it's cold outside.
+317;odeca;2;Ova torba mi se jako sviđa, koliko košta?;Эта сумка мне очень нравится, сколько стоит?;I really like this bag, how much does it cost?
+318;odeca;2;Ova jakna mi je prevelika, treba mi manji broj.;Эта куртка мне велика, мне нужен размер поменьше.;This jacket is too big for me, I need a smaller size.
+319;odeca;2;Ove cipele su mi premale, imate li veći broj?;Эта обувь мне мала, у вас есть побольше?;These shoes are too small for me, do you have a bigger size?
+320;odeca;2;Od kog materijala je ova haljina?;Из какого материала это платье?;What material is this dress made of?
+321;odeca;3;Da li imate veći broj ove majice?;Есть ли у вас эта футболка большего размера?;Do you have this T-shirt in a bigger size?
+322;odeca;3;Volim jednostavan modni stil i jednobojnu odeću.;Мне нравится простой стиль и однотонная одежда.;I like a simple fashion style and solid-color clothing.
+323;odeca;3;Ovo je nova letnja kolekcija, sviđa mi se.;Это новая летняя коллекция, мне нравится.;This is the new summer collection, I like it.
+324;odeca;3;Etiketa sa cenom je otpala sa haljine.;Ценник отпал от платья.;The price tag fell off the dress.
+325;odeca;3;Treba mi elegantna odeća za svečanost sutra.;Мне нужна элегантная одежда для мероприятия завтра.;I need elegant clothing for tomorrow's event.
+326;odeca;3;Kupujem sportsku odeću za teretanu.;Я покупаю спортивную одежду для спортзала.;I'm buying sportswear for the gym.
+327;odeca;3;Kupujem naočare za sunce i novčanik.;Я покупаю солнцезащитные очки и кошелёк.;I'm buying sunglasses and a wallet.
+328;odeca;3;Rajsferšlus na jakni ne radi, treba popravka.;Молния на куртке не работает, нужен ремонт.;The zipper on the jacket doesn't work, it needs repair.
+329;odeca;3;Nedostaje mi jedno dugme na košulji.;У меня не хватает одной пуговицы на рубашке.;I'm missing one button on my shirt.
+330;odeca;3;Koji je vaš broj obuće, molim vas?;Какой у вас размер обуви, пожалуйста?;What is your shoe size, please?
+331;kafic;1;Sastajemo se u kafiću posle posla.;Мы встречаемся в кафе после работы.;We're meeting at the café after work.
+332;kafic;1;Konobar donosi meni odmah.;Официант сразу приносит меню.;The waiter brings the menu right away.
+333;kafic;1;Imate li slobodan sto za dvoje?;У вас есть свободный столик на двоих?;Do you have a free table for two?
+334;kafic;1;Mogu li da vidim meni, molim vas?;Могу я посмотреть меню, пожалуйста?;Can I see the menu, please?
+335;kafic;1;Naručujem espreso i čašu vode.;Я заказываю эспрессо и стакан воды.;I'm ordering an espresso and a glass of water.
+336;kafic;1;Želim čaj sa limunom, molim.;Я хочу чай с лимоном, пожалуйста.;I want tea with lemon, please.
+337;kafic;1;Sedimo na terasi jer je lepo vreme.;Мы сидим на террасе, потому что хорошая погода.;We're sitting on the terrace because the weather is nice.
+338;kafic;1;Molim vas, hoću da platim.;Хочу оплатить, пожалуйста.;I'd like to pay, please.
+339;kafic;1;Ostavljam bakšiš konobarici.;Я оставляю чаевые официантке.;I'm leaving a tip for the waitress.
+340;kafic;1;Naručujem sok od pomorandže za dete.;Я заказываю апельсиновый сок для ребёнка.;I'm ordering orange juice for the child.
+341;kafic;2;Pijem kapućino ujutru pre posla.;Я пью капучино утром перед работой.;I drink cappuccino in the morning before work.
+342;kafic;2;Bez šećera, molim, samo malo mleka.;Без сахара, пожалуйста, только немного молока.;Without sugar, please, just a little milk.
+343;kafic;2;Molim vas sok sa ledom i slamčicom.;Сок со льдом и трубочкой, пожалуйста.;Juice with ice and a straw, please.
+344;kafic;2;Uz kafu, jedan kolačić molim vas.;К кофе одно печенье, пожалуйста.;One cookie with the coffee, please.
+345;kafic;2;Ja bih vodu bez gasa, hvala.;Я бы хотел негазированную воду, спасибо.;I'd like still water, thank you.
+346;kafic;2;Imam rezervaciju hotela, ali ne za kafić.;У меня бронь отеля, но не для кафе.;I have a hotel reservation, but not for the café.
+347;kafic;2;Molim sto u nepušačkom delu, ako je moguće.;Столик в зоне для некурящих, если возможно.;A table in the non-smoking area, if possible.
+348;kafic;2;Koja je Wi-Fi lozinka ovde?;Какой здесь пароль от Wi-Fi?;What is the Wi-Fi password here?
+349;kafic;2;Šta biste nam preporučili od pića?;Что бы вы порекомендовали из напитков?;What would you recommend to drink?
+350;kafic;2;Plaćamo zajedno, ne odvojene račune.;Мы платим вместе, не отдельными счетами.;We're paying together, not separate bills.
+351;kafic;3;Da li ovo sadrži alergene?;Это содержит аллергены?;Does this contain allergens?
+352;kafic;3;Imate li mleko bez laktoze za kafu?;У вас есть молоко без лактозы для кофе?;Do you have lactose-free milk for the coffee?
+353;kafic;3;Naručujem biljni čaj i prirodni sok.;Я заказываю травяной чай и натуральный сок.;I'm ordering herbal tea and fresh juice.
+354;kafic;3;Kafa sa šlagom i cimetom, molim.;Кофе со взбитыми сливками и корицей, пожалуйста.;Coffee with whipped cream and cinnamon, please.
+355;kafic;3;Mogu li da vidim kartu pića?;Могу я посмотреть карту напитков?;Can I see the drinks menu?
+356;kafic;3;Da li služite doručak subotom?;Вы подаёте завтрак по субботам?;Do you serve breakfast on Saturdays?
+357;kafic;3;Koliko traje čekanje za sto?;Сколько длится ожидание столика?;How long is the wait for a table?
+358;kafic;3;Molim kafu za poneti, žurim.;Кофе с собой, я спешу.;Coffee to go, please, I'm in a hurry.
+359;kafic;3;Treba mi trska za mešanje i salveta.;Мне нужна мешалка и салфетка.;I need a stirring stick and a napkin.
+360;kafic;3;Volim baštu ovog kafića uveče.;Мне нравится летняя терраса этого кафе вечером.;I love this café's garden in the evening.
+361;lepote;1;Idem u salon lepote sutra posle posla.;Я иду в салон красоты завтра после работы.;I'm going to the beauty salon tomorrow after work.
+362;lepote;1;Frizer mi seče kosu jednom mesečno.;Парикмахер стрижёт мне волосы раз в месяц.;The hairdresser cuts my hair once a month.
+363;lepote;1;Kosa mi je previše duga, treba šišanje.;Волосы у меня слишком длинные, нужна стрижка.;My hair is too long, I need a haircut.
+364;lepote;1;Zakazala sam šišanje za petak popodne.;Я записалась на стрижку на пятницу днём.;I booked a haircut for Friday afternoon.
+365;lepote;1;Radim farbanje kose danas u salonu.;Сегодня я делаю окрашивание волос в салоне.;I'm getting my hair dyed today at the salon.
+366;lepote;1;Zakazala sam manikir i pedikir za subotu.;Я записалась на маникюр и педикюр на субботу.;I booked a manicure and pedicure for Saturday.
+367;lepote;1;Nokti su mi slomljeni, treba manikir.;У меня сломаны ногти, нужен маникюр.;My nails are broken, I need a manicure.
+368;lepote;1;Zakazujem termin za frizuru sledeće nedelje.;Я записываюсь на стрижку на следующей неделе.;I'm booking an appointment for a haircut next week.
+369;lepote;1;Kakva je cena usluge za farbanje kose?;Какая цена услуги окрашивания волос?;What is the price for the hair dyeing service?
+370;lepote;1;Želim kratku frizuru za leto.;Я хочу короткую стрижку на лето.;I want a short haircut for summer.
+371;lepote;2;Šišam se jednom mesečno kod istog frizera.;Я стригусь раз в месяц у одного и того же парикмахера.;I get a haircut once a month from the same hairdresser.
+372;lepote;2;Bojim kosu u smeđu boju svaka dva meseca.;Я крашу волосы в коричневый цвет каждые два месяца.;I dye my hair brown every two months.
+373;lepote;2;Molim vas i feniranje posle šišanja.;И укладку феном после стрижки, пожалуйста.;And a blow-dry after the haircut, please.
+374;lepote;2;Radim depilaciju nogu pre leta.;Я делаю депиляцию ног перед летом.;I'm getting my legs waxed before summer.
+375;lepote;2;Masaža lica opušta posle napornog dana.;Массаж лица расслабляет после тяжёлого дня.;A facial massage is relaxing after a hard day.
+376;lepote;2;Stavljam gel lak na nokte, sviđa mi se.;Я делаю гель-лак на ногти, мне нравится.;I'm getting gel polish on my nails, I like it.
+377;lepote;2;Sviđa mi se ova frizura, hvala vam.;Мне нравится эта причёска, спасибо вам.;I like this hairstyle, thank you.
+378;lepote;2;Prvo idemo na konsultaciju sa frizerom.;Сначала мы идём на консультацию с парикмахером.;First we go for a consultation with the hairdresser.
+379;lepote;2;Volim opuštajuću masažu posle posla.;Я люблю расслабляющий массаж после работы.;I love a relaxing massage after work.
+380;lepote;2;Kozmetičar mi je preporučio kremu za lice.;Косметолог порекомендовал мне крем для лица.;The beautician recommended a face cream to me.
+381;lepote;3;Da li imate slobodan termin danas popodne?;У вас есть сегодня днём свободное время?;Do you have a free slot this afternoon?
+382;lepote;3;Koliko traje šišanje i feniranje zajedno?;Сколько длится стрижка и укладка феном вместе?;How long does the haircut and blow-dry take together?
+383;lepote;3;Želim da zadržim prirodnu boju kose.;Я хочу сохранить натуральный цвет волос.;I want to keep my natural hair color.
+384;lepote;3;Radim melanž na kosi ovog leta.;Этим летом я делаю мелирование на волосах.;I'm getting highlights in my hair this summer.
+385;lepote;3;Imam suvu kosu zimi, treba mi regenerator.;У меня сухие волосы зимой, мне нужен кондиционер.;I have dry hair in winter, I need conditioner.
+386;lepote;3;Samo sečenje vrhova, molim vas, ne kratko.;Только стрижка кончиков, пожалуйста, не коротко.;Just a trim, please, not short.
+387;lepote;3;Radim nadogradnju noktiju gelom jednom mesečno.;Я делаю наращивание ногтей гелем раз в месяц.;I get gel nail extensions once a month.
+388;lepote;3;Radim korekciju i bojenje obrva pre venčanja.;Я делаю коррекцию и окрашивание бровей перед свадьбой.;I'm getting my eyebrows shaped and tinted before the wedding.
+389;lepote;3;Rezervisala sam spa tretman za vikend.;Я забронировала спа-процедуру на выходные.;I booked a spa treatment for the weekend.
+390;lepote;3;Imamo popust za redovne klijente svakog meseca.;У нас скидка постоянным клиентам каждый месяц.;We have a discount for regular clients every month.
+391;banka;1;Idem u banku posle posla danas.;Я иду в банк после работы сегодня.;I'm going to the bank after work today.
+392;banka;1;Podižem novac na bankomatu blizu kuće.;Я снимаю деньги в банкомате рядом с домом.;I'm withdrawing money from the ATM near my house.
+393;banka;1;Otvaram račun u banci sledeće nedelje.;Я открываю банковский счёт на следующей неделе.;I'm opening a bank account next week.
+394;banka;1;Idite na drugi šalter, molim vas.;Идите к другому окну, пожалуйста.;Go to the other counter, please.
+395;banka;1;Izgubila sam bankovnu karticu juče.;Я потеряла банковскую карту вчера.;I lost my bank card yesterday.
+396;banka;1;Zaboravio sam PIN kod za karticu.;Я забыл ПИН-код от карты.;I forgot the PIN code for my card.
+397;banka;1;Podizanje novca je besplatno u ovoj banci.;Снятие денег в этом банке бесплатно.;Cash withdrawal is free at this bank.
+398;banka;1;Proveravam stanje na računu svako jutro.;Я проверяю баланс счёта каждое утро.;I check my account balance every morning.
+399;banka;1;Treba mi izvod za prošli mesec, molim vas.;Мне нужна выписка за прошлый месяц, пожалуйста.;I need a statement for last month, please.
+400;banka;1;Kakav je kurs evra danas u banci?;Какой сегодня курс евро в банке?;What is today's euro exchange rate at the bank?
+401;banka;2;Otvaram tekući račun i devizni račun.;Я открываю текущий счёт и валютный счёт.;I'm opening a checking account and a foreign currency account.
+402;banka;2;Podigla sam kredit za stan prošle godine.;Я взяла кредит на квартиру в прошлом году.;I took out a loan for an apartment last year.
+403;banka;2;Kamata na kredit je visoka ove godine.;Процентная ставка по кредиту высокая в этом году.;The interest rate on the loan is high this year.
+404;banka;2;Plaćam ratu jednom mesečno bez problema.;Я плачу взнос раз в месяц без проблем.;I pay an installment once a month without any problem.
+405;banka;2;Podnela sam zahtev za kreditnu karticu juče.;Я подала заявку на кредитную карту вчера.;I applied for a credit card yesterday.
+406;banka;2;Koristim onlajn bankarstvo i mobilnu aplikaciju svaki dan.;Я пользуюсь онлайн-банкингом и мобильным приложением каждый день.;I use online banking and the mobile app every day.
+407;banka;2;Otvaranje računa traje pola sata u banci.;Открытие счёта в банке занимает полчаса.;Opening an account at the bank takes half an hour.
+408;banka;2;Treba mi lična karta za otvaranje računa.;Мне нужно удостоверение личности для открытия счёта.;I need my ID to open an account.
+409;banka;2;Stavite potpis ovde, molim vas.;Поставьте здесь подпись, пожалуйста.;Put your signature here, please.
+410;banka;2;Podesila sam trajni nalog za kiriju svakog meseca.;Я настроила постоянное поручение на аренду каждый месяц.;I set up a standing order for rent every month.
+411;banka;3;Menjam devize u banci pre putovanja.;Я меняю иностранную валюту в банке перед поездкой.;I'm exchanging foreign cash at the bank before the trip.
+412;banka;3;Treba mi SWIFT kod i IBAN banke.;Мне нужны SWIFT-код и IBAN банка.;I need the bank's SWIFT code and IBAN.
+413;banka;3;Otvorila sam rezidentni račun posle godinu dana boravka.;Я открыла резидентский счёт после года пребывания.;I opened a resident account after a year of residence.
+414;banka;3;Pročitajte ugovor o kreditu pažljivo pre potpisa.;Внимательно прочитайте кредитный договор перед подписанием.;Read the loan agreement carefully before signing.
+415;banka;3;Uzeli smo hipoteku za kuću prošle godine.;В прошлом году мы взяли ипотеку на дом.;We took out a mortgage for the house last year.
+416;banka;3;Imam dozvoljeni minus na računu za hitne slučajeve.;У меня разрешён овердрафт на счету для срочных случаев.;I have an authorized overdraft on my account for emergencies.
+417;banka;3;Koristim bezkontaktno plaćanje svuda, veoma je praktično.;Я везде использую бесконтактную оплату, это очень удобно.;I use contactless payment everywhere, it's very convenient.
+418;banka;3;Prijavila sam gubitak kartice odmah zbog krađe identiteta.;Я сразу заявила об утере карты из-за кражи личных данных.;I reported the lost card immediately due to identity theft.
+419;banka;3;Banka je blokirala sumnjivu transakciju na mom računu.;Банк заблокировал подозрительную транзакцию на моём счёте.;The bank blocked a suspicious transaction on my account.
+420;banka;3;Otvorila sam depozit na godinu dana u ovoj banci.;Я открыла депозит на год в этом банке.;I opened a one-year deposit at this bank.
+421;MUP;1;Idem u MUP da predam dokumenta sutra.;Я иду в МВД, чтобы подать документы завтра.;I'm going to the MUP to submit documents tomorrow.
+422;MUP;1;Prijavljujem boravak u Srbiji ove nedelje.;Я регистрирую пребывание в Сербии на этой неделе.;I'm registering my stay in Serbia this week.
+423;MUP;1;Prijava boravka je obavezna za sve strance.;Регистрация по месту пребывания обязательна для всех иностранцев.;Registration of stay is mandatory for all foreigners.
+424;MUP;1;Uzeo sam beli karton na granici juče.;Я получил белый картон на границе вчера.;I got the white card at the border yesterday.
+425;MUP;1;Ponesite pasoš i sva dokumenta u MUP.;Возьмите паспорт и все документы с собой в МВД.;Bring your passport and all documents to the MUP.
+426;MUP;1;Podnosim zahtev za boravišnu dozvolu ove nedelje.;Я подаю заявление на ВНЖ на этой неделе.;I'm applying for a residence permit this week.
+427;MUP;1;Popunjavam zahtev za ID karticu stranca.;Я заполняю заявление на ID-карту иностранца.;I'm filling out the application for a foreigner's ID card.
+428;MUP;1;Zakazao sam termin u MUP-u za sledeći utorak.;Я записался на приём в МВД на следующий вторник.;I booked an appointment at the MUP for next Tuesday.
+429;MUP;1;Treba mi fotografija za dokumenta danas.;Мне сегодня нужно фото на документы.;I need an ID photo today.
+430;MUP;1;Platio sam taksu za zahtev jutros.;Я оплатил пошлину за заявление сегодня утром.;I paid the fee for the application this morning.
+431;MUP;2;Podnosim zahtev za privremeni boravak po osnovu posla.;Я подаю заявление на временное пребывание на основании работы.;I'm applying for temporary residence based on work.
+432;MUP;2;Koji je vaš osnov boravka u Srbiji?;Какое у вас основание для пребывания в Сербии?;What is your grounds for residence in Serbia?
+433;MUP;2;Podnosim zahtev za produženje boravka pre isteka.;Я подаю заявление на продление ВНЖ до истечения срока.;I'm applying for a residence extension before it expires.
+434;MUP;2;Dobio sam ID karticu stranca posle mesec dana.;Я получил ИД-карту иностранца через месяц.;I received my foreigner's ID card after a month.
+435;MUP;2;Prošao sam biometriju i uzeli su mi otiske prstiju.;Я прошёл биометрию, и у меня взяли отпечатки пальцев.;I went through biometrics and they took my fingerprints.
+436;MUP;2;Treba mi ugovor o zakupu i saglasnost vlasnika stana.;Мне нужен договор аренды и согласие владельца квартиры.;I need a lease agreement and the apartment owner's consent.
+437;MUP;2;Kupila sam zdravstveno osiguranje za strance pre podnošenja.;Я купила медстраховку для иностранцев перед подачей.;I bought health insurance for foreigners before submitting.
+438;MUP;2;Priložite izvod iz banke uz zahtev za boravak.;Приложите банковскую выписку к заявлению на пребывание.;Attach a bank statement to the residence application.
+439;MUP;2;Podnela sam elektronsku prijavu preko portala eUprava.;Я подала электронное заявление через портал eUprava.;I submitted an online application through the eUprava portal.
+440;MUP;2;Čekam rešenje MUP-a već dve nedelje.;Я жду решения МВД уже две недели.;I've been waiting for the MUP's decision for two weeks.
+441;MUP;3;Tražim uverenje o boravku sa svim datumima ВНЖ.;Я запрашиваю справку о пребывании со всеми датами ВНЖ.;I'm requesting a residence certificate with all the residence permit dates.
+442;MUP;3;Rok važenja moje boravišne dozvole je godinu dana.;Срок действия моего ВНЖ — один год.;The validity period of my residence permit is one year.
+443;MUP;3;Moraću da uradim ponovno podnošenje zahteva sledećeg meseca.;В следующем месяце мне придётся сделать повторную подачу заявления.;I'll have to reapply next month.
+444;MUP;3;Dobili ste matični broj stranca posle prve prijave.;Вам присвоен личный номер иностранца после первой регистрации.;You've been assigned a foreigner's registration number after the first registration.
+445;MUP;3;Moram da uradim odjavu boravka pri odlasku iz zemlje.;Мне нужно сняться с регистрации пребывания при отъезде из страны.;I need to deregister my stay when leaving the country.
+446;MUP;3;Imam boravak po osnovu zaposlenja u ovoj firmi.;У меня пребывание на основании трудоустройства в этой фирме.;I have residence based on employment at this company.
+447;MUP;3;Radna dozvola za strance je uslov za rad ovde.;Разрешение на работу для иностранцев — условие для работы здесь.;A work permit for foreigners is a requirement to work here.
+448;MUP;3;Treba mi prevod dokumenata koji radi sudski tumač.;Мне нужен перевод документов, который делает судебный переводчик.;I need a document translation done by a certified court translator.
+449;MUP;3;Kašnjenje sa prijavom boravka povlači novčanu kaznu.;Опоздание с регистрацией пребывания влечёт штраф.;Late registration of your stay incurs a fine.
+450;MUP;3;Prijavljujem se pomoću ConsentID aplikacije na portalu eUprava.;Я вхожу с помощью приложения ConsentID на портале eUprava.;I log in using the ConsentID app on the eUprava portal.
+451;putovanja;1;Ovo je moje prvo putovanje u Srbiju.;Это моё первое путешествие в Сербию.;This is my first trip to Serbia.
+452;putovanja;1;Ja sam turista, prvi put sam ovde.;Я турист, я здесь впервые.;I'm a tourist, I'm here for the first time.
+453;putovanja;1;Rezervisao sam hotel u centru grada.;Я забронировал отель в центре города.;I booked a hotel in the city center.
+454;putovanja;1;Imam rezervaciju hotela za dve noći.;У меня бронь отеля на две ночи.;I have a hotel reservation for two nights.
+455;putovanja;1;Molim vas ključ od sobe broj pet.;Ключ от номера пять, пожалуйста.;The key to room number five, please.
+456;putovanja;1;Ostavljam kofer na recepciji na sat vremena.;Я оставляю чемодан на ресепшн на час.;I'm leaving my suitcase at the reception for an hour.
+457;putovanja;1;Imate li mapu grada za mene?;У вас есть для меня карта города?;Do you have a city map for me?
+458;putovanja;1;Koje su glavne znamenitosti ovog grada?;Какие главные достопримечательности этого города?;What are the main sights of this city?
+459;putovanja;1;Naš vodič govori ruski i engleski.;Наш гид говорит по-русски и по-английски.;Our tour guide speaks Russian and English.
+460;putovanja;1;Kupujem suvenire za porodicu pre odlaska.;Я покупаю сувениры для семьи перед отъездом.;I'm buying souvenirs for my family before leaving.
+461;putovanja;2;Kupili smo aranžman za sedam dana u Srbiji.;Мы купили тур на семь дней в Сербию.;We bought a seven-day travel package to Serbia.
+462;putovanja;2;Polazak leta je u sedam ujutru, ne kasnimo.;Вылет в семь утра, мы не опаздываем.;The flight departure is at seven a.m., we're not late.
+463;putovanja;2;Prelazimo granicu za sat vremena, imam pasoš.;Мы пересекаем границу через час, у меня есть паспорт.;We're crossing the border in an hour, I have my passport.
+464;putovanja;2;Kupila sam osiguranje za putovanje pre polaska.;Я купила туристическую страховку перед отъездом.;I bought travel insurance before departure.
+465;putovanja;2;Tražim jeftin smeštaj u centru grada.;Я ищу недорогое проживание в центре города.;I'm looking for cheap accommodation in the city center.
+466;putovanja;2;Iznajmili smo apartman za nedelju dana.;Мы сняли апартаменты на неделю.;We rented an apartment for a week.
+467;putovanja;2;Da li je doručak uključen u cenu sobe?;Завтрак включён в цену номера?;Is breakfast included in the room price?
+468;putovanja;2;Odjava iz hotela je do podneva, znam.;Выезд из отеля до полудня, я знаю.;Hotel check-out is by noon, I know.
+469;putovanja;2;Idemo na izlet do Novog Sada sutra.;Завтра мы едем на экскурсию в Нови-Сад.;We're going on a day trip to Novi Sad tomorrow.
+470;putovanja;2;Kupujem ulaznicu za tvrđavu i muzej.;Я покупаю входной билет в крепость и музей.;I'm buying an entrance ticket for the fortress and museum.
+471;putovanja;3;Posetili smo nacionalni park Tara prošle nedelje.;На прошлой неделе мы посетили национальный парк Тара.;We visited Tara National Park last week.
+472;putovanja;3;Ova planinarska staza je duga, ali lepa.;Эта горная тропа длинная, но красивая.;This hiking trail is long but beautiful.
+473;putovanja;3;Idemo u banju na vikend da se odmorimo.;Мы едем на курорт на выходные, чтобы отдохнуть.;We're going to a spa town for the weekend to relax.
+474;putovanja;3;Ovo mesto je deo kulturnog nasleđa Srbije.;Это место — часть культурного наследия Сербии.;This place is part of Serbia's cultural heritage.
+475;putovanja;3;Popunite carinsku deklaraciju pre poletanja aviona.;Заполните таможенную декларацию перед вылетом самолёта.;Fill out the customs declaration before the flight departs.
+476;putovanja;3;Naručila sam transfer do hotela sa aerodroma.;Я заказала трансфер до отеля из аэропорта.;I ordered a transfer to the hotel from the airport.
+477;putovanja;3;Putno osiguranje pokriva medicinske troškove u inostranstvu.;Дорожная страховка покрывает медицинские расходы за границей.;Travel insurance covers medical expenses abroad.
+478;putovanja;3;Koristim lokalni transport da uštedim novac na putovanju.;Я пользуюсь местным транспортом, чтобы сэкономить деньги в поездке.;I use local transport to save money on the trip.
+479;putovanja;3;Volim individualno putovanje bez vodiča i grupe.;Мне нравится индивидуальная поездка без гида и группы.;I like independent travel without a guide and a group.
+480;putovanja;3;Proverite rok trajanja pasoša pre puta u Srbiju.;Проверьте срок действия паспорта перед поездкой в Сербию.;Check your passport validity before the trip to Serbia.
+481;tehnika;1;Idem u prodavnicu tehnike po televizor.;Я иду в магазин техники за телевизором.;I'm going to the electronics store for a TV.
+482;tehnika;1;Ovaj televizor ima veliki i lep ekran.;У этого телевизора большой и красивый экран.;This television has a big, nice screen.
+483;tehnika;1;Treba mi nov kompjuter za posao od kuće.;Мне нужен новый компьютер для работы из дома.;I need a new computer for work from home.
+484;tehnika;1;Laptop je lak, brz i nije skup.;Ноутбук лёгкий, быстрый и недорогой.;The laptop is light, fast, and not expensive.
+485;tehnika;1;Kupujem novi telefon jer je stari star.;Я покупаю новый телефон, потому что старый уже старый.;I'm buying a new phone because the old one is old.
+486;tehnika;1;Tražim bežične slušalice za trčanje.;Я ищу беспроводные наушники для бега.;I'm looking for wireless headphones for running.
+487;tehnika;1;Treba mi punjač za telefon, molim vas.;Мне нужна зарядка для телефона, пожалуйста.;I need a charger for my phone, please.
+488;tehnika;1;Baterija na telefonu se brzo prazni.;Батарея на телефоне быстро разряжается.;The battery on the phone drains quickly.
+489;tehnika;1;Poredim dva modela telefona pre kupovine.;Я сравниваю две модели телефонов перед покупкой.;I'm comparing two phone models before buying.
+490;tehnika;1;Kolika je cena ovog uređaja, molim vas?;Какая цена этого устройства, пожалуйста?;What is the price of this device, please?
+491;tehnika;2;Kupujem tablet za dete za rođendan.;Я покупаю планшет для ребёнка на день рождения.;I'm buying a tablet for my child's birthday.
+492;tehnika;2;Nosim pametni sat svaki dan na poslu.;Я ношу умные часы каждый день на работе.;I wear my smartwatch every day at work.
+493;tehnika;2;Treba mi veći monitor i bolja tastatura.;Мне нужен монитор побольше и клавиатура получше.;I need a bigger monitor and a better keyboard.
+494;tehnika;2;Ova kamera pravi odlične fotografije za putovanje.;Эта камера делает отличные фотографии для путешествия.;This camera takes great photos for travel.
+495;tehnika;2;Prebacujem fajlove na USB memoriju pre posla.;Я переношу файлы на USB-флешку перед работой.;I'm transferring files to a USB flash drive before work.
+496;tehnika;2;Ruter ne emituje signal dobro u ovoj sobi.;Роутер плохо транслирует сигнал в этой комнате.;The router isn't broadcasting the signal well in this room.
+497;tehnika;2;Instaliram novu aplikaciju na telefon danas.;Я устанавливаю новое приложение на телефон сегодня.;I'm installing a new app on my phone today.
+498;tehnika;2;Uređaj ima kvar posle samo mesec dana.;Устройство сломалось всего через месяц.;The device broke down after just a month.
+499;tehnika;2;Odneću telefon u servis zbog popravke.;Я отнесу телефон в сервисный центр для ремонта.;I'll take the phone to the service center for repair.
+500;tehnika;2;Pogledajte specifikacije i kompatibilnost pre kupovine.;Посмотрите характеристики и совместимость перед покупкой.;Check the specifications and compatibility before buying.
+501;tehnika;3;Da li imate noviji model ovog telefona?;Есть ли у вас модель новее этого телефона?;Do you have a newer model of this phone?
+502;tehnika;3;Povežite slušalice preko blututa, veoma je lako.;Подключите наушники через блютуз, это очень легко.;Connect the headphones via Bluetooth, it's very easy.
+503;tehnika;3;Koji je kapacitet memorije ovog telefona?;Какой объём памяти у этого телефона?;What is the storage capacity of this phone?
+504;tehnika;3;Ovaj laptop ima brz procesor i dobru bateriju.;У этого ноутбука быстрый процессор и хорошая батарея.;This laptop has a fast processor and good battery life.
+505;tehnika;3;Kupujem futrolu i zaštitno staklo za telefon.;Я покупаю чехол и защитное стекло для телефона.;I'm buying a case and screen protector for the phone.
+506;tehnika;3;Nosim prenosivi punjač na putovanje uvek.;Я всегда беру портативную зарядку в поездку.;I always bring a power bank on trips.
+507;tehnika;3;Kupujem smart televizor sa internetom sledeće nedelje.;Я покупаю смарт-телевизор с интернетом на следующей неделе.;I'm buying a smart TV with internet next week.
+508;tehnika;3;Uradiću fabričko resetovanje telefona zbog kvara.;Я сделаю сброс телефона до заводских настроек из-за поломки.;I'll do a factory reset on the phone due to a malfunction.
+509;tehnika;3;Tražim refundaciju za ovaj neispravan proizvod.;Я прошу возврат денег за этот неисправный товар.;I'm requesting a refund for this faulty product.
+510;tehnika;3;Mogu li da platim na rate za ovaj laptop?;Могу я оплатить этот ноутбук в рассрочку?;Can I pay for this laptop in installments?
