@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    Относительный base href, чтобы одна и та же сборка одинаково работала
+    и на GitHub-домене (username.github.io/my_app/), и на кастомном домене
+    (caolaki.com, обслуживается с корня) — пути к ассетам считаются от
+    текущего адреса страницы, а не зашиты на конкретный путь.
+  -->
+  <base href="./">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Cao Laki">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>Cao Laki</title>
+  <link rel="manifest" href="manifest.json">
+  <!--
+    Лёгкая заставка (только иконка, без текста), которая видна сразу при
+    открытии страницы, пока скачивается движок Flutter, — вместо белого
+    экрана. Убирается в flutter_bootstrap.js после запуска приложения.
+  -->
+  <style>
+    html, body { margin: 0; height: 100%; background: #EDEDED; }
+    @media (prefers-color-scheme: dark) {
+      html, body { background: #14131A; }
+    }
+    #app-splash {
+      position: fixed; inset: 0; display: flex;
+      align-items: center; justify-content: center;
+    }
+    #app-splash img {
+      width: 96px; height: 96px; border-radius: 22px;
+      animation: app-splash-pulse 1.2s ease-in-out infinite alternate;
+    }
+    @keyframes app-splash-pulse { from { opacity: .55; } to { opacity: 1; } }
+  </style>
+</head>
+<body>
+  <div id="app-splash"><img src="icons/Icon-192.png" alt=""></div>
+  <!--
+    You can customize the "flutter_bootstrap.js" script.
+    This is useful to provide a custom configuration to the Flutter loader
+    or to give the user feedback during the initialization process.
+
+    For more details:
+    * https://docs.flutter.dev/platform-integration/web/initialization
+  -->
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
