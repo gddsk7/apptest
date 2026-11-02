@@ -1,0 +1,136 @@
+category,lv,words,sentences,coin,xp
+general,1,+,,10,15
+general,2,+,,20,30
+general,3,+,,30,45
+general,1,,+,20,25
+general,2,,+,30,50
+general,3,,+,40,100
+pekara,1,+,,10,15
+pekara,2,+,,20,30
+pekara,3,+,,30,45
+pekara,1,,+,20,25
+pekara,2,,+,30,50
+pekara,3,,+,40,100
+prodavnica,1,+,,10,15
+prodavnica,2,+,,20,30
+prodavnica,3,+,,30,45
+prodavnica,1,,+,20,25
+prodavnica,2,,+,30,50
+prodavnica,3,,+,40,100
+dom,1,+,,10,15
+dom,2,+,,20,30
+dom,3,+,,30,45
+dom,1,,+,20,25
+dom,2,,+,30,50
+dom,3,,+,40,100
+city,1,+,,10,15
+city,2,+,,20,30
+city,3,+,,30,45
+city,1,,+,20,25
+city,2,,+,30,50
+city,3,,+,40,100
+transport,1,+,,10,15
+transport,2,+,,20,30
+transport,3,+,,30,45
+transport,1,,+,20,25
+transport,2,,+,30,50
+transport,3,,+,40,100
+work,1,+,,10,15
+work,2,+,,20,30
+work,3,+,,30,45
+work,1,,+,20,25
+work,2,,+,30,50
+work,3,,+,40,100
+study,1,+,,10,15
+study,2,+,,20,30
+study,3,+,,30,45
+study,1,,+,20,25
+study,2,,+,30,50
+study,3,,+,40,100
+health,1,+,,10,15
+health,2,+,,20,30
+health,3,+,,30,45
+health,1,,+,20,25
+health,2,,+,30,50
+health,3,,+,40,100
+time,1,+,,10,15
+time,2,+,,20,30
+time,3,+,,30,45
+time,1,,+,20,25
+time,2,,+,30,50
+time,3,,+,40,100
+odeca,1,+,,10,15
+odeca,2,+,,20,30
+odeca,3,+,,30,45
+odeca,1,,+,20,25
+odeca,2,,+,30,50
+odeca,3,,+,40,100
+kafic,1,+,,10,15
+kafic,2,+,,20,30
+kafic,3,+,,30,45
+kafic,1,,+,20,25
+kafic,2,,+,30,50
+kafic,3,,+,40,100
+lepote,1,+,,10,15
+lepote,2,+,,20,30
+lepote,3,+,,30,45
+lepote,1,,+,20,25
+lepote,2,,+,30,50
+lepote,3,,+,40,100
+banka,1,+,,10,15
+banka,2,+,,20,30
+banka,3,+,,30,45
+banka,1,,+,20,25
+banka,2,,+,30,50
+banka,3,,+,40,100
+MUP,1,+,,10,15
+MUP,2,+,,20,30
+MUP,3,+,,30,45
+MUP,1,,+,20,25
+MUP,2,,+,30,50
+MUP,3,,+,40,100
+putovanja,1,+,,10,15
+putovanja,2,+,,20,30
+putovanja,3,+,,30,45
+putovanja,1,,+,20,25
+putovanja,2,,+,30,50
+putovanja,3,,+,40,100
+tehnika,1,+,,10,15
+tehnika,2,+,,20,30
+tehnika,3,+,,30,45
+tehnika,1,,+,20,25
+tehnika,2,,+,30,50
+tehnika,3,,+,40,100
+Apstraktni pojmovi,4,+,,40,60
+Argumentacija,5,+,,50,75
+Core verbs,1,+,,10,15
+Dnevni život,1,+,,10,15
+Društvena pitanja i argumentacija,4,+,,40,60
+Emocije i osećanja,2,+,,20,30
+Građevinarstvo,4,+,,40,60
+Hrana i piće,1,+,,10,15
+Hrana i priprema,3,+,,30,45
+Idiomi i ustaljeni izrazi,3,+,,30,45
+Istorija i pamćenje,4,+,,40,60
+Kultura i umetnost,5,+,,50,75
+Lične stvari,1,+,,10,15
+Mali razgovori,1,+,,10,15
+Mediji i informisanje,3,+,,30,45
+Mediji i politika,4,+,,40,60
+Nauka i brojevi,4,+,,40,60
+O sebi,1,+,,10,15
+Obraćanje i pisma,2,+,,20,30
+Opisi stvari,1,+,,10,15
+Pokloni i praznici,2,+,,20,30
+Politika i društvo,5,+,,50,75
+Porodica,1,+,,10,15
+Pozdravi i ljubaznosti,1,+,,10,15
+Priroda i ekologija,3,+,,30,45
+Priroda i okolina,2,+,,20,30
+Prve reči,1,+,,10,15
+Sport i hobiji,2,+,,20,30
+Sport i vežbanje,3,+,,30,45
+Stvari i dokumenta,3,+,,30,45
+Svakodnevni razgovori i priče,2,+,,20,30
+Umetnost i kultura,4,+,,40,60
+Vreme,2,+,,20,30
