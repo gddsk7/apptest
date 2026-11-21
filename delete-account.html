@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cao Laki — удаление аккаунта / Account deletion</title>
+<meta name="description" content="Как удалить аккаунт Cao Laki и связанные с ним данные. How to delete your Cao Laki account and its data.">
+<style>
+  :root {
+    --bg: #f2f3f8;
+    --card: #ffffff;
+    --text: #253840;
+    --muted: #5a6b73;
+    --accent: #7a52ed;
+    --accent-soft: #efeaff;
+    --border: #e2e5ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121218;
+      --card: #1e1e28;
+      --text: #ecebf3;
+      --muted: #a9a8b8;
+      --accent: #a68bff;
+      --accent-soft: #2a2440;
+      --border: #33323f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Roboto, system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .brand { font-size: 22px; font-weight: 700; }
+  .brand span { color: var(--accent); }
+  .lang { display: flex; gap: 6px; }
+  .lang button {
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    border-radius: 16px; padding: 6px 14px; font: inherit; font-size: 14px; cursor: pointer;
+  }
+  .lang button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 24px;
+    padding: 20px 22px; margin-top: 18px;
+  }
+  h1 { font-size: 26px; margin: 22px 0 4px; line-height: 1.25; }
+  h2 { font-size: 18px; margin: 0 0 10px; }
+  p { margin: 0 0 10px; }
+  .muted { color: var(--muted); font-size: 14px; }
+  ol, ul { margin: 0; padding-left: 22px; }
+  li { margin-bottom: 8px; }
+  li:last-child { margin-bottom: 0; }
+  .mail {
+    display: inline-block; margin-top: 6px; padding: 12px 20px; border-radius: 18px;
+    background: var(--accent); color: #fff; text-decoration: none; font-weight: 700;
+    word-break: break-all;
+  }
+  .note { background: var(--accent-soft); border-radius: 16px; padding: 12px 16px; margin-top: 12px; }
+  code { word-break: break-all; }
+  [data-lang] { display: none; }
+  html[lang="ru"] [data-lang="ru"], html[lang="en"] [data-lang="en"] { display: block; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">Cao <span>Laki</span></div>
+    <div class="lang" role="group" aria-label="Language">
+      <button type="button" data-set="ru">Русский</button>
+      <button type="button" data-set="en">English</button>
+    </div>
+  </header>
+
+  <!-- ===================== РУССКИЙ ===================== -->
+  <main data-lang="ru">
+    <h1>Удаление аккаунта и данных в Cao Laki</h1>
+
+    <section class="card">
+      <h2>Как запросить удаление аккаунта</h2>
+      <ol>
+        <li>Откройте почту, к которой привязан ваш аккаунт Cao Laki (тот email, с которым вы входите в приложение).</li>
+        <li>Напишите письмо на адрес <b>support_HolodStudio@proton.me</b> с темой <b>«Удаление аккаунта Cao Laki»</b>.</li>
+        <li>В письме укажите, что хотите удалить аккаунт и все связанные с ним данные. Письмо нужно отправить именно с email аккаунта, чтобы мы могли подтвердить, что аккаунт ваш.</li>
+        <li>Мы удалим аккаунт и данные в течение <b>30 дней</b> и ответим на ваше письмо, когда всё будет удалено.</li>
+      </ol>
+      <a class="mail" href="mailto:support_HolodStudio@proton.me?subject=%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0%20Cao%20Laki">Написать письмо</a>
+      <div class="note">Хотите удалить только часть данных (например, облачный прогресс или фото профиля), а аккаунт оставить? Напишите на тот же адрес и укажите, что именно удалить.</div>
+    </section>
+
+    <section class="card">
+      <h2>Что будет удалено</h2>
+      <ul>
+        <li>Аккаунт: email, имя и фото профиля (в том числе полученные из аккаунта Google).</li>
+        <li>Облачный прогресс: выученные слова, опыт, монеты, серия, состояние котика, прогресс в грамматике и настройки.</li>
+        <li>Жалобы на карточки слов, отправленные из вашего аккаунта.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Что не хранится или хранится отдельно</h2>
+      <ul>
+        <li>Голосовые записи и тексты сообщений из разговора с котиком и «Диалога с ИИ» на нашем сервере не сохраняются: они нужны только чтобы подготовить ответ.</li>
+        <li>Данные на вашем устройстве (прогресс, настройки, фото профиля без аккаунта) хранятся только на нём. Чтобы их удалить, удалите приложение или очистите его данные в настройках телефона.</li>
+        <li>Мы можем сохранить данные дольше, только если этого требует закон.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Контакты</h2>
+      <p>Вопросы о данных и конфиденциальности: <b>support_HolodStudio@proton.me</b></p>
+    </section>
+  </main>
+
+  <!-- ===================== ENGLISH ===================== -->
+  <main data-lang="en">
+    <h1>Deleting your Cao Laki account and data</h1>
+
+    <section class="card">
+      <h2>How to request account deletion</h2>
+      <ol>
+        <li>Open the mailbox linked to your Cao Laki account (the email you sign in to the app with).</li>
+        <li>Send an email to <b>support_HolodStudio@proton.me</b> with the subject <b>"Cao Laki account deletion"</b>.</li>
+        <li>Say that you want your account and all data linked to it deleted. Please send it from your account's email so we can confirm the account is yours.</li>
+        <li>We will delete your account and data within <b>30 days</b> and reply to your email once it's done.</li>
+      </ol>
+      <a class="mail" href="mailto:support_HolodStudio@proton.me?subject=Cao%20Laki%20account%20deletion">Send an email</a>
+      <div class="note">Want to delete only some of your data (for example, cloud progress or your profile photo) and keep the account? Write to the same address and tell us what to delete.</div>
+    </section>
+
+    <section class="card">
+      <h2>What will be deleted</h2>
+      <ul>
+        <li>Your account: email, name and profile photo (including those taken from your Google account).</li>
+        <li>Cloud progress: learned words, experience, coins, streak, the cat's state, grammar progress and settings.</li>
+        <li>Word card reports sent from your account.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>What isn't stored or is stored separately</h2>
+      <ul>
+        <li>Voice recordings and message texts from talking to the cat and the "AI dialogue" are not saved on our server: they are only used to prepare the reply.</li>
+        <li>Data on your device (progress, settings, profile photo without an account) is stored only there. To delete it, uninstall the app or clear its data in your phone's settings.</li>
+        <li>We may keep data longer only if the law requires it.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Contact</h2>
+      <p>Questions about data and privacy: <b>support_HolodStudio@proton.me</b></p>
+    </section>
+  </main>
+</div>
+<script>
+  (function () {
+    var root = document.documentElement;
+    function setLang(l) {
+      root.lang = l;
+      document.querySelectorAll('.lang button').forEach(function (b) {
+        b.setAttribute('aria-pressed', b.dataset.set === l ? 'true' : 'false');
+      });
+      try { localStorage.setItem('lang', l); } catch (e) {}
+    }
+    var saved = null;
+    try { saved = localStorage.getItem('lang'); } catch (e) {}
+    var q = new URLSearchParams(location.search).get('lang');
+    var nav = (navigator.language || 'en').toLowerCase().indexOf('ru') === 0 ? 'ru' : 'en';
+    setLang(q === 'ru' || q === 'en' ? q : (saved || nav));
+    document.querySelectorAll('.lang button').forEach(function (b) {
+      b.addEventListener('click', function () { setLang(b.dataset.set); });
+    });
+  })();
+</script>
+</body>
+</html>
