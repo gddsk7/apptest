@@ -1,0 +1,250 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cao Laki — политика конфиденциальности / Privacy policy</title>
+<meta name="description" content="Политика конфиденциальности приложения Cao Laki. Privacy policy of the Cao Laki app.">
+<style>
+  :root {
+    --bg: #f2f3f8;
+    --card: #ffffff;
+    --text: #253840;
+    --muted: #5a6b73;
+    --accent: #7a52ed;
+    --accent-soft: #efeaff;
+    --border: #e2e5ee;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121218;
+      --card: #1e1e28;
+      --text: #ecebf3;
+      --muted: #a9a8b8;
+      --accent: #a68bff;
+      --accent-soft: #2a2440;
+      --border: #33323f;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Roboto, system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.55;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+  .brand { font-size: 22px; font-weight: 700; }
+  .brand span { color: var(--accent); }
+  .lang { display: flex; gap: 6px; }
+  .lang button {
+    border: 1px solid var(--border); background: var(--card); color: var(--text);
+    border-radius: 16px; padding: 6px 14px; font: inherit; font-size: 14px; cursor: pointer;
+  }
+  .lang button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .card {
+    background: var(--card); border: 1px solid var(--border); border-radius: 24px;
+    padding: 20px 22px; margin-top: 18px;
+  }
+  h1 { font-size: 26px; margin: 22px 0 4px; line-height: 1.25; }
+  h2 { font-size: 18px; margin: 0 0 10px; }
+  p { margin: 0 0 10px; }
+  p:last-child { margin-bottom: 0; }
+  .muted { color: var(--muted); font-size: 14px; }
+  ol, ul { margin: 0; padding-left: 22px; }
+  li { margin-bottom: 8px; }
+  li:last-child { margin-bottom: 0; }
+  ul + p { margin-top: 10px; }
+  a { color: var(--accent); }
+  .mail {
+    display: inline-block; margin-top: 6px; padding: 12px 20px; border-radius: 18px;
+    background: var(--accent); color: #fff; text-decoration: none; font-weight: 700;
+    word-break: break-all;
+  }
+  .note { background: var(--accent-soft); border-radius: 16px; padding: 12px 16px; margin-top: 12px; }
+  b { word-break: break-word; }
+  [data-lang] { display: none; }
+  html[lang="ru"] [data-lang="ru"], html[lang="en"] [data-lang="en"] { display: block; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">Cao <span>Laki</span></div>
+    <div class="lang" role="group" aria-label="Language">
+      <button type="button" data-set="ru">Русский</button>
+      <button type="button" data-set="en">English</button>
+    </div>
+  </header>
+
+  <!-- ===================== РУССКИЙ ===================== -->
+  <main data-lang="ru">
+    <h1>Политика конфиденциальности</h1>
+    <p class="muted">Последнее обновление: 1 ноября 2026 г.</p>
+
+    <section class="card">
+      <p>Эта политика объясняет, какие данные собирает приложение Cao Laki для изучения сербского языка, зачем они нужны, кому передаются и как их удалить. Пользуясь приложением или создавая аккаунт, вы соглашаетесь с этой политикой. Мы не продаём ваши данные, не показываем рекламу и не используем сервисы аналитики или отслеживания.</p>
+    </section>
+
+    <section class="card">
+      <h2>Какие данные мы собираем</h2>
+      <ul>
+        <li>Без аккаунта: прогресс (выученные слова, опыт, монеты, серия, состояние котика), настройки, имя и фото профиля хранятся только на вашем устройстве.</li>
+        <li>Аккаунт: email и имя, указанные при регистрации, или имя, email и фото из аккаунта Google при входе через Google. Пароль обрабатывает Google Firebase — мы его не видим.</li>
+        <li>Синхронизация: если вы вошли в аккаунт, прогресс, настройки и выбранное фото профиля сохраняются в облаке, чтобы быть доступными на всех ваших устройствах.</li>
+        <li>Разговор с котиком и «Диалог с ИИ»: ваши голосовые записи и тексты сообщений, а также список выученных слов (чтобы точнее распознавать речь и подбирать слова). Чтобы ограничить число запросов, приложение создаёт анонимный идентификатор — без имени и email.</li>
+        <li>Жалобы на карточки слов: слово, тип ошибки, платформа устройства и, если вы вошли, идентификатор и имя аккаунта.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Зачем нужны данные</h2>
+      <p>Только для работы функций приложения: вход в аккаунт и восстановление пароля, сохранение и синхронизация прогресса, ответы котика (распознавание речи, ответ и озвучка), ограничение числа запросов к ИИ, исправление ошибок в словах. Мы не используем данные для рекламы и не создаём по ним профили.</p>
+    </section>
+
+    <section class="card">
+      <h2>Кому передаются данные</h2>
+      <ul>
+        <li>Google Firebase — аккаунт, облачный прогресс и жалобы на слова.</li>
+        <li>Сторонний сервис искусственного интеллекта — распознаёт вашу речь, пишет и озвучивает ответы котика. Он получает только то, что нужно для ответа: запись или текст реплики и список выученных слов. Запросы проходят через наш сервер, который не сохраняет записи и тексты — только число запросов за день.</li>
+        <li>Buy Me a Coffee — открывается во внешнем браузере только по нажатию на кнопку; на этом сайте действует его собственная политика.</li>
+      </ul>
+      <p>У каждого сервиса своя политика конфиденциальности. Данные могут обрабатываться на серверах за пределами вашей страны. Мы также можем раскрыть данные, если этого требует закон.</p>
+    </section>
+
+    <section class="card">
+      <h2>Микрофон</h2>
+      <p>Приложение использует микрофон только во время разговора с котиком, пока вы записываете реплику. Запись отправляется на распознавание и не хранится ни на устройстве, ни у нас.</p>
+    </section>
+
+    <section class="card">
+      <h2>Сколько хранятся данные</h2>
+      <p>Данные аккаунта и облачный прогресс хранятся, пока существует ваш аккаунт. Локальные данные — пока приложение установлено на устройстве: удалите приложение, и они исчезнут. Жалобы на слова хранятся, пока нужны для исправления ошибок.</p>
+    </section>
+
+    <section class="card">
+      <h2>Ваши права и удаление аккаунта</h2>
+      <p>Вы можете запросить копию своих данных, их исправление или удаление. Чтобы удалить аккаунт и все связанные с ним данные в облаке, напишите с email вашего аккаунта на <b>support_HolodStudio@proton.me</b> — мы удалим их в течение 30 дней. Пользоваться приложением можно и без аккаунта: тогда данные хранятся только на устройстве.</p>
+      <div class="note">Подробная инструкция: <a href="delete-account.html?lang=ru">удаление аккаунта и данных</a>.</div>
+    </section>
+
+    <section class="card">
+      <h2>Дети</h2>
+      <p>Приложение не предназначено для детей младше 13 лет, и мы сознательно не собираем их данные. Если вы считаете, что ребёнок передал нам данные, напишите нам — мы их удалим.</p>
+    </section>
+
+    <section class="card">
+      <h2>Безопасность</h2>
+      <p>Данные передаются по защищённому соединению (HTTPS), доступ к облачным данным ограничен правилами доступа. Ни один способ передачи и хранения не защищён на 100%, но мы делаем всё разумное, чтобы сохранить ваши данные.</p>
+    </section>
+
+    <section class="card">
+      <h2>Изменения политики</h2>
+      <p>Если мы изменим эту политику, новая версия появится в приложении с новой датой обновления.</p>
+    </section>
+
+    <section class="card">
+      <h2>Контакты</h2>
+      <p>Вопросы о конфиденциальности и запросы на удаление данных: <b>support_HolodStudio@proton.me</b></p>
+      <a class="mail" href="mailto:support_HolodStudio@proton.me">Написать письмо</a>
+    </section>
+  </main>
+
+  <!-- ===================== ENGLISH ===================== -->
+  <main data-lang="en">
+    <h1>Privacy policy</h1>
+    <p class="muted">Last updated: November 1, 2026</p>
+
+    <section class="card">
+      <p>This policy explains what data the Cao Laki Serbian learning app collects, why it needs it, who it is shared with and how to delete it. By using the app or creating an account, you agree to this policy. We don't sell your data, show ads or use analytics or tracking services.</p>
+    </section>
+
+    <section class="card">
+      <h2>What data we collect</h2>
+      <ul>
+        <li>Without an account: your progress (learned words, XP, coins, streak, the cat's state), settings, profile name and photo are stored only on your device.</li>
+        <li>Account: the email and name you enter when signing up, or your name, email and photo from your Google account if you sign in with Google. Your password is handled by Google Firebase — we never see it.</li>
+        <li>Sync: when you're signed in, your progress, settings and chosen profile photo are saved in the cloud so they're available on all your devices.</li>
+        <li>Talking to the cat and "AI dialog": your voice recordings and message texts, plus your list of learned words (to recognize speech more accurately and pick suitable words). To limit the number of requests, the app creates an anonymous ID with no name or email.</li>
+        <li>Word card reports: the word, the error type, your device platform and, if you're signed in, your account ID and name.</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Why we need it</h2>
+      <p>Only to make the app's features work: signing in and password recovery, saving and syncing progress, the cat's replies (speech recognition, the answer and its voice), limiting the number of AI requests, and fixing mistakes in words. We don't use data for advertising or build profiles from it.</p>
+    </section>
+
+    <section class="card">
+      <h2>Who we share it with</h2>
+      <ul>
+        <li>Google Firebase — your account, cloud progress and word reports.</li>
+        <li>A third-party artificial intelligence service — recognizes your speech, writes and voices the cat's replies. It receives only what's needed for a reply: the recording or text of your message and your list of learned words. Requests pass through our server, which doesn't store recordings or texts — only the number of requests per day.</li>
+        <li>Buy Me a Coffee — opens in an external browser only when you tap the button; its own policy applies on that site.</li>
+      </ul>
+      <p>Each service has its own privacy policy. Data may be processed on servers outside your country. We may also disclose data when required by law.</p>
+    </section>
+
+    <section class="card">
+      <h2>Microphone</h2>
+      <p>The app uses the microphone only while you're talking to the cat and recording a reply. The recording is sent for recognition and isn't stored on your device or by us.</p>
+    </section>
+
+    <section class="card">
+      <h2>How long we keep data</h2>
+      <p>Account data and cloud progress are kept as long as your account exists. Local data stays as long as the app is installed on your device: uninstall the app and it's gone. Word reports are kept as long as they're needed to fix mistakes.</p>
+    </section>
+
+    <section class="card">
+      <h2>Your rights and account deletion</h2>
+      <p>You can request a copy of your data, its correction or deletion. To delete your account and all its cloud data, email <b>support_HolodStudio@proton.me</b> from your account's email address — we'll delete it within 30 days. You can also use the app without an account: then your data stays only on your device.</p>
+      <div class="note">Step-by-step instructions: <a href="delete-account.html?lang=en">deleting your account and data</a>.</div>
+    </section>
+
+    <section class="card">
+      <h2>Children</h2>
+      <p>The app isn't intended for children under 13, and we don't knowingly collect their data. If you believe a child has shared data with us, contact us and we'll delete it.</p>
+    </section>
+
+    <section class="card">
+      <h2>Security</h2>
+      <p>Data is transmitted over a secure connection (HTTPS), and access to cloud data is restricted by access rules. No method of transmission or storage is 100% secure, but we take reasonable steps to protect your data.</p>
+    </section>
+
+    <section class="card">
+      <h2>Changes to this policy</h2>
+      <p>If we change this policy, the new version will appear in the app with a new update date.</p>
+    </section>
+
+    <section class="card">
+      <h2>Contact</h2>
+      <p>Privacy questions and data deletion requests: <b>support_HolodStudio@proton.me</b></p>
+      <a class="mail" href="mailto:support_HolodStudio@proton.me">Send an email</a>
+    </section>
+  </main>
+</div>
+<script>
+  (function () {
+    var root = document.documentElement;
+    function setLang(l) {
+      root.lang = l;
+      document.querySelectorAll('.lang button').forEach(function (b) {
+        b.setAttribute('aria-pressed', b.dataset.set === l ? 'true' : 'false');
+      });
+      try { localStorage.setItem('lang', l); } catch (e) {}
+    }
+    var saved = null;
+    try { saved = localStorage.getItem('lang'); } catch (e) {}
+    var q = new URLSearchParams(location.search).get('lang');
+    var nav = (navigator.language || 'en').toLowerCase().indexOf('ru') === 0 ? 'ru' : 'en';
+    setLang(q === 'ru' || q === 'en' ? q : (saved || nav));
+    document.querySelectorAll('.lang button').forEach(function (b) {
+      b.addEventListener('click', function () { setLang(b.dataset.set); });
+    });
+  })();
+</script>
+</body>
+</html>
